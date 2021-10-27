@@ -1,0 +1,2 @@
+# My-Profile
+TJHSST '22. I'm an aspiring Engineer. My primary interests are in CAD Modeling, Prototype development, automative engineering and Computing. I've completed two summer internship under ASSIP at George Mason University in statistical modelling and recently completed AEOP sponsored research at George Washington on Laser/Plasma research. Apart from my academic pursuits, I'm heavily involved in community volunteer activities through Amnesty International and Redcross. I love to play piano (both pop and classical), and enjoy lacrosse.
